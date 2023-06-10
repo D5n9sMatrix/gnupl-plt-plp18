@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/Workspace/gnupl-plt/gnu/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/gnupl-plt.dir/gnupl-plt.cpp.o -c /home/denis/Workspace/gnupl-plt/gnu/gnupl-plt.cpp",
+  "file": "/home/denis/Workspace/gnupl-plt/gnu/gnupl-plt.cpp"
+}
+]
